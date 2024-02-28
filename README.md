@@ -19,7 +19,7 @@
 <details><br><br>
 <p align="left">
   <a href="https://github.com/Ulfsveinn">
-    <img height="190px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ulfsveinn&theme=dracula" />
+    <img height="100px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ulfsveinn&theme=dracula" />
   </a>
   <a href="https://github.com/Ulfsveinn">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ulfsveinn&hide_border=true&card_width=338&theme=dracula" />
