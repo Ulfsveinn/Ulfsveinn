@@ -22,7 +22,7 @@
     <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ulfsveinn&theme=dracula" />
   </a>
   <a href="https://github.com/Ulfsveinn">
-    <img height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ulfsveinn&hide_border=true&card_width=338&theme=dracula" />
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ulfsveinn&hide_border=true&card_width=338&theme=dracula" />
   </a>
   <a href="https://github.com/Ulfsveinn">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ulfsveinn&theme=dracula" />
